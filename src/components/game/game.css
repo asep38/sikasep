@@ -1,0 +1,20 @@
+.card_item {
+  border: 3px solid black;
+  height: 18rem;
+  width: 18rem;
+  border-radius: 15px;
+  box-shadow: -5px 8px 1px 1px black;
+  cursor: pointer;
+}
+
+.card_item img {
+  margin: 5px;
+  height: 80%;
+  width: 99%;
+  /* object-fit: cover; */
+}
+
+.card_item h3 {
+  text-decoration: none;
+  color: black;
+}

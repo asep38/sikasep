@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "sotoshop",
+    "image_cover": "https://user-images.githubusercontent.com/112145050/255816441-9e780769-c493-43ab-bae1-e67cd3f0017c.jpg",
+    "image_detail": "https://user-images.githubusercontent.com/112145050/255816459-31c84308-e294-4a90-9a72-7fe3a27683e5.jpg",
+    "deskripsi": "",
+    "link_priview": "https://asep38.github.io/sotoshop.github.io/",
+    "fitur": ""
+  },
+  {
+    "id": 2,
+    "title": "kriya utama",
+    "image_cover": "https://user-images.githubusercontent.com/112145050/255826031-32aa055e-7c01-4b41-8eba-0cfd881515d5.jpg",
+    "image_detail": "https://user-images.githubusercontent.com/112145050/255826022-64452d8e-f746-490b-8bb7-fbc1e6cdd1c5.jpg",
+    "deskripsi": "",
+    "link_priview": "https://asep38.github.io/lp-kriya-utama.github.io/",
+    "fitur": ""
+  },
+  {
+    "id": 3,
+    "title": "hajj",
+    "image_cover": "https://user-images.githubusercontent.com/112145050/255843633-e6850c44-f6b5-4a7e-b535-3f215702548e.jpg",
+    "image_detail": "https://user-images.githubusercontent.com/112145050/255843642-3ed9b0b6-bfc4-4516-8f3a-781caa2f8a07.jpg",
+    "deskripsi": "",
+    "link_priview": "https://asep38.github.io/tourhajj.github.io/",
+    "fitur": ""
+  },
+  {
+    "id": 4,
+    "title": "home dream",
+    "image_cover": "https://user-images.githubusercontent.com/112145050/255844607-abc33eb0-a9cb-451d-86f3-4b1d2972b568.png",
+    "image_detail": "https://user-images.githubusercontent.com/112145050/255846982-61a229c4-4862-4558-a284-b9ca4763f9b0.jpg",
+    "deskripsi": "",
+    "link_priview": "https://asep38.github.io/house.github.io/",
+    "fitur": ""
+  }
+]

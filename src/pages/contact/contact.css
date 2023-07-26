@@ -1,0 +1,11 @@
+.contact-text {
+  border: 3px solid black;
+  border-radius: 15px;
+  box-shadow: -5px 7px 1px 1px black;
+}
+
+.contact-form .form {
+  border: 3px solid black;
+  border-radius: 15px;
+  box-shadow: -3px 3px 1px 1px black;
+}

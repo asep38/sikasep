@@ -1,0 +1,20 @@
+footer {
+  margin: 25px;
+  padding: 15px;
+  border: 3px solid black;
+  border-radius: 15px;
+  box-shadow: -5px 7px 1px 1px black;
+}
+
+footer li {
+  text-decoration: none;
+  list-style: none;
+  text-align: left;
+}
+.footer_top {
+  border-bottom: 1px solid black;
+}
+
+.footer_bottom {
+  border-bottom: 1px solid black;
+}

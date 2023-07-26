@@ -1,0 +1,22 @@
+.img_profile {
+  width: 60%;
+  /* background: red; */
+  padding: 25px;
+  border: 3px solid black;
+  border-radius: 15px;
+  box-shadow: -5px 7px 1px 1px black;
+}
+
+.about_text {
+  padding: 25px;
+  border: 3px solid black;
+  border-radius: 15px;
+  box-shadow: -5px 7px 1px 1px black;
+}
+
+.box_shadow {
+  padding: 25px;
+  border: 3px solid black;
+  border-radius: 15px;
+  box-shadow: -5px 7px 1px 1px black;
+}
